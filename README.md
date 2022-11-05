@@ -1,2 +1,0 @@
-# estudio-beautiful
-test
